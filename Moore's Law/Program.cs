@@ -18,7 +18,7 @@ namespace Moore_s_Law
             double x = 100;
             double y = Math.Log(x, 2.0)*18;
             double n = y / 12;
-            Console.WriteLine($"Peste {n} ani vom avea o putere de calcul de 100 de ori mai mare fata de cat avem la un moment dat, la acelasi pret");
+            Console.WriteLine($"Peste {n} ani vom avea o putere de calcul de 100 de ori mai mare la acelasi pret");
 
         }
     }
