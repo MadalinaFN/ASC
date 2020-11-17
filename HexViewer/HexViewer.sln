@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexViewer", "HexViewer.csproj", "{980CDE7C-F3E9-4BF1-9338-5632323B75EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980CDE7C-F3E9-4BF1-9338-5632323B75EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980CDE7C-F3E9-4BF1-9338-5632323B75EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980CDE7C-F3E9-4BF1-9338-5632323B75EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980CDE7C-F3E9-4BF1-9338-5632323B75EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504E5712-5DCE-45A7-A4B0-DB7B2816AA32}
+	EndGlobalSection
+EndGlobal
