@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{980CDE7C-F3E9-4BF1-9338-5632323B75EC}</ProjectGuid>
+    <ProjectGuid>{9DA00880-07D8-4121-AFEC-8EFCE6A784B6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>HexViewer</RootNamespace>
     <AssemblyName>HexViewer</AssemblyName>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinaryDocument.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
