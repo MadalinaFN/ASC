@@ -41,7 +41,7 @@ namespace Program_switch
                     Console.WriteLine($"Rezultatul ridicarii la putere a numarului este {nr}");
                     break;
                 case 6:
-                    BigInteger nr2 = BigInteger.Pow(UInt64.MaxValue, 1/2); //Nu merge, nu stiu cum sa fac radacina patrara
+                    BigInteger nr2 = BigInteger.Pow(UInt64.MaxValue, 1/2); //Nu merge, nu stiu cum sa fac radacina patrata
                     Console.WriteLine($"Rezultatul radacinii patrate a numarului este {nr2}");
                     break;
                 default:
