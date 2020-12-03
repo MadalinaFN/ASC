@@ -38,11 +38,10 @@ namespace Program_switch
                     break;
                 case 5:
                     BigInteger nr = BigInteger.Pow(UInt64.MaxValue, 7);
-                    Console.WriteLine($"Rezultatul ridicarii la putere a numarului este {nr}");
+                    Console.WriteLine($"Ridicarea la putere a numarului este {nr}");
                     break;
                 case 6:
-                    BigInteger nr2 = BigInteger.Pow(UInt64.MaxValue, 1/2); //Nu merge, nu stiu cum sa fac radacina patrata
-                    Console.WriteLine($"Rezultatul radacinii patrate a numarului este {nr2}");
+                    Console.WriteLine($"Radacina patrata a numarului este {Math.Sqrt((double)a)}");
                     break;
                 default:
                     Console.WriteLine("Numarul introdus nu e corect");
